@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ongraiso</title>
+  
+  
+  <link href="https://ongraiso.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ongraiso.github.io/"/>
+  <updated>2022-02-09T07:35:45.899Z</updated>
+  <id>https://ongraiso.github.io/</id>
+  
+  <author>
+    <name>ongraiso</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>巧言令色</title>
+    <link href="https://ongraiso.github.io/2022/02/09/article-title/"/>
+    <id>https://ongraiso.github.io/2022/02/09/article-title/</id>
+    <published>2022-02-09T07:18:53.000Z</published>
+    <updated>2022-02-09T07:35:45.899Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;他从后面扳她的脸，扳成仰望的样子。思琪说：“老师，有很多像我一样的女生吗？” “从来没有，只有你，我跟你是同一种人。” “哪一种人？” “我在爱情里有洁癖。” “是吗？”</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ongraiso.github.io/2022/02/09/hello-world/"/>
+    <id>https://ongraiso.github.io/2022/02/09/hello-world/</id>
+    <published>2022-02-09T06:03:39.775Z</published>
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
